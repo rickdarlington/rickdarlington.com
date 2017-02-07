@@ -1,0 +1,23 @@
+====
+HOME
+==== 
+
+Hi!  I'm Rick Darlington, and I'm an Engineering Leader living in Denver, Colorado.  Most recently I've been running Dev+Devops as Director of Engineering at Thinktank.  Check out my ARTICLES if you want to read a ton of detail on what I've been doing for the last 2 years.
+
+I also work as a Technology Advisor for companies like ToMarket, which I helped start.  If you have a startup, early or mid-stage company that needs help scaling engineering, please get in touch!
+
+For more detail, please check out my BACKGROUND, RESUME or ARTICLES
+
+==========
+BACKGROUND
+==========
+
+Before Thinktank, I managed multiple teams at Homeadvisor, where I was responsible for a couple big projects, like Architecting High-availability sytems and move critical infrastructure to the cloud, as well as building realtime calendar integration and synchronization.
+
+Prior to that I managed several teams at GoDaddy.  We built a new account setup portal for the relaunch of GoDaddy's hosting products, as well as the systems and orchestration that enabled automatic migration of 5 million user accounts from legacy hosting environments.
+
+Before I became a manager at GoDaddy I worked on the platform engineering team where we built a realtime performance and user experience monitor that could respond to user issues automatically.  It drastically increased performance and customer satisfaction in hosting, and won us an Innovation Award in 2012.
+
+I've had a string of other jobs as well, check out my RESUME for the full detail.  
+
+If you just want the quick version- I started out in tech as a summer intern in Chicago, worked my way through college at Indiana as a Web Developer, went into big corporate as a software engineer, moved to Colorado, and then did all the stuff you just read about.  When I'm not doing tech, I'm probably skiing or snowboarding in the winter or camping and hiking in the summer.
