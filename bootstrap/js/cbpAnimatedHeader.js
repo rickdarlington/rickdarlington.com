@@ -30,10 +30,10 @@ var cbpAnimatedHeader = (function() {
 		var sy = scrollY();
 		/* TODO ease in instead of classie.add */
 		if ( sy >= changeHeaderOn ) {
-			classie.remove( navbar_right, 'navbar-right-large' );
+			//classie.remove( navbar_right, 'navbar-right-large' );
 		}
 		else {
-			classie.add( navbar_right, 'navbar-right-large' );
+			//classie.add( navbar_right, 'navbar-right-large' );
 		}
 		didScroll = false;
 	}
