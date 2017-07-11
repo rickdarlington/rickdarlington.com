@@ -27,7 +27,8 @@ a, a:hover, a:focus, a:active, a.active {
 }
 
 a {
-    color: #355f87
+    color: #355f87;
+    font-weight:bold;
 }
 
 a:hover, a:focus, a:active, a.active {
